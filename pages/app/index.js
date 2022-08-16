@@ -10,6 +10,7 @@ function index() {
 				<Link href="/policy/notefi">
 					<Image
 						src={NotefiBanner}
+						alt="notefi"
 						layout="responsive"
 						className="rounded-xl"
 					/>

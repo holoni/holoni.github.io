@@ -4,7 +4,7 @@ import NotefiBanner from '../public/notefi/banner.png';
 function NoteFi() {
 	return (
 		<>
-			<Image src={NotefiBanner} layout="responsive" />
+			<Image src={NotefiBanner} alt="notefi" layout="responsive" />
 		</>
 	);
 }

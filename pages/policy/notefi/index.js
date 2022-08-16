@@ -66,10 +66,10 @@ function index() {
 					I want to inform you that whenever you use my Service, in a case of an
 					error in the app I collect data and information (through third-party
 					products) on your phone called Log Data. This Log Data may include
-					information such as your device Internet Protocol (“IP”) address,
-					device name, operating system version, the configuration of the app
-					when utilizing my Service, the time and date of your use of the
-					Service, and other statistics.
+					information such as your device Internet Protocol (&apos;IP&apos;)
+					address, device name, operating system version, the configuration of
+					the app when utilizing my Service, the time and date of your use of
+					the Service, and other statistics.
 				</p>{' '}
 				<p>
 					<strong>Cookies</strong>
@@ -77,16 +77,16 @@ function index() {
 				<p>
 					Cookies are files with a small amount of data that are commonly used
 					as anonymous unique identifiers. These are sent to your browser from
-					the websites that you visit and are stored on your device's internal
-					memory.
+					the websites that you visit and are stored on your device&apos;s
+					internal memory.
 				</p>{' '}
 				<p>
-					This Service does not use these “cookies” explicitly. However, the app
-					may use third-party code and libraries that use “cookies” to collect
-					information and improve their services. You have the option to either
-					accept or refuse these cookies and know when a cookie is being sent to
-					your device. If you choose to refuse our cookies, you may not be able
-					to use some portions of this Service.
+					This Service does not use these &apos;cookies&apos; explicitly.
+					However, the app may use third-party code and libraries that use
+					&apos;cookies&apos; to collect information and improve their services.
+					You have the option to either accept or refuse these cookies and know
+					when a cookie is being sent to your device. If you choose to refuse
+					our cookies, you may not be able to use some portions of this Service.
 				</p>{' '}
 				<p>
 					<strong>Service Providers</strong>
@@ -96,9 +96,9 @@ function index() {
 					following reasons:
 				</p>{' '}
 				<ul>
-					<li>To facilitate our Service;</li>{' '}
-					<li>To provide the Service on our behalf;</li>{' '}
-					<li>To perform Service-related services; or</li>{' '}
+					<li>To facilitate our Service.</li>{' '}
+					<li>To provide the Service on our behalf.</li>{' '}
+					<li>To perform Service-related services or.</li>{' '}
 					<li>To assist us in analyzing how our Service is used.</li>
 				</ul>{' '}
 				<p>
@@ -129,7 +129,7 @@ function index() {
 					or practices of any third-party sites or services.
 				</p>{' '}
 				<p>
-					<strong>Children's Privacy</strong>
+					<strong>Children&apos;s Privacy</strong>
 				</p>{' '}
 				<div>
 					<p>

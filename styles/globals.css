@@ -1,5 +1,9 @@
 @tailwind base;
 
+li {
+	@apply tracking-wider;
+}
+
 strong {
 	@apply text-2xl mb-10;
 }

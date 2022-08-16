@@ -6,8 +6,8 @@ function index() {
 	return (
 		<div className="container w-11/12 m-auto">
 			<br className="m-20" />
-			<div className="w-1/3 m-auto">
-				<Link href="/policy/notefi">
+			<div className="md:w-1/3 m-auto">
+				<Link href="/app/notefi">
 					<Image
 						src={NotefiBanner}
 						alt="notefi"

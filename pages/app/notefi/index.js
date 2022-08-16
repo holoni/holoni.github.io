@@ -5,7 +5,7 @@ function index() {
 	return (
 		<div className="container w-11/12 m-auto">
 			<br className="m-20" />
-			<div className="w-1/3 m-auto">
+			<div className="md:w-1/3 m-auto">
 				<h1 className="text-4xl tracking-wider">NoteFi</h1>
 				<p>
 					NoteFi is a lightweight note-taking application that is easy and

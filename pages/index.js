@@ -4,7 +4,12 @@ import Base from '../public/base.png';
 export default function Index() {
 	return (
 		<div className="container w-11/12 m-auto">
-			<Image src={Base} alt="holoni" layout="responsive" />
+			<Image
+				src={Base}
+				alt="holoni"
+				layout="responsive"
+				className="rounded-lg"
+			/>
 		</div>
 	);
 }
